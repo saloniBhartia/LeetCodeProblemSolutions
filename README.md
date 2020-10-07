@@ -4,7 +4,10 @@
 *Given two sequences pushed and popped with distinct values, return true if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack. This is from https://leetcode.com/problems/validate-stack-sequences/*
 
 ## Next Greater Element I
-*You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find all the next greater numbers for nums1's elements in the corresponding places of nums2. The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. If it does not exist, output -1 for this number.. This is from https://leetcode.com/problems/next-greater-element-i/*
+*You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find all the next greater numbers for nums1's elements in the corresponding places of nums2. The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. If it does not exist, output -1 for this number. This is from https://leetcode.com/problems/next-greater-element-i/*
+
+## Remove Outermost Parentheses
+*A valid parentheses string is either empty (""), "(" + A + ")", or A + B, where A and B are valid parentheses strings, and + represents string concatenation. For example, "", "()", "(())()", and "(()(()))" are all valid parentheses strings. A valid parentheses string S is primitive if it is nonempty, and there does not exist a way to split it into S = A+B, with A and B nonempty valid parentheses strings. Given a valid parentheses string S, consider its primitive decomposition: S = P_1 + P_2 + ... + P_k, where P_i are primitive valid parentheses strings. Return S after removing the outermost parentheses of every primitive string in the primitive decomposition of S. This is from https://leetcode.com/problems/remove-outermost-parentheses/*
 
 ##  Binary Search Tree Iterator
 *Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST. Calling next() will return the next smallest number in the BST. This is from https://leetcode.com/problems/binary-search-tree-iterator/*
