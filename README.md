@@ -13,7 +13,7 @@
 *Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram. This is from https://leetcode.com/problems/largest-rectangle-in-histogram/*
 
 ## Daily Temperatures
-* Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. If there is no future day for which this is possible, put 0 instead. This is from https://leetcode.com/problems/daily-temperatures/*
+*Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. If there is no future day for which this is possible, put 0 instead. This is from https://leetcode.com/problems/daily-temperatures/*
 
 ##  Binary Search Tree Iterator
 *Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST. Calling next() will return the next smallest number in the BST. This is from https://leetcode.com/problems/binary-search-tree-iterator/*
