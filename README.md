@@ -25,3 +25,6 @@ The parts should be in order of occurrence in the input list, and parts occurrin
 
 ## Validate Binary Search Tree
 *Given a binary tree, determine if it is a valid binary search tree (BST). This is from https://leetcode.com/problems/validate-binary-search-tree/*
+
+## Populating Next Right Pointers in Each Node
+*Given a perfect binary tree, populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL. This is from https://leetcode.com/problems/populating-next-right-pointers-in-each-node//*
