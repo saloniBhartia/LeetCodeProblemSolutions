@@ -69,3 +69,7 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 ## Top K frequent elements
 *Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
 > Solution here: [top-k-elements](cpp/topKFrequentElements.cpp)
+
+## Increasing Triplet Subsequence
+*Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false. This is from: https://leetcode.com/problems/increasing-triplet-subsequence/*
+> Solution here: [increasing-triplet](cpp/increasingTriplet.cpp)
