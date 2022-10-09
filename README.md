@@ -63,9 +63,9 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 
 ## Design a Linked List
 *Designing an implementation of Linked List. This is from: https://leetcode.com/problems/design-linked-list/*
-> Solution here: [design-linked-list](cpp/)
+> Solution here: [design-linked-list](cpp/designLinkedList.cpp)
 
 
 ## Top K frequent elements
 *Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
-> Solution here: [top-k-elements](cpp/)
+> Solution here: [top-k-elements](cpp/topKFrequentElements.cpp)
