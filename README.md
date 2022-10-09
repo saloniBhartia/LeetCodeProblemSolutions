@@ -38,4 +38,11 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 
 
 ## First Unique Charachter in a string
-* Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1. This is from: https://leetcode.com/problems/first-unique-character-in-a-string/*
+*Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1. This is from: https://leetcode.com/problems/first-unique-character-in-a-string/*
+
+## Design a Linked List
+*Designing an implementation of Linked List. This is from: https://leetcode.com/problems/design-linked-list/*
+
+
+## Top K frequent elements
+*Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
