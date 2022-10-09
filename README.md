@@ -32,40 +32,40 @@
 *Given a (singly) linked list with head node root, write a function to split the linked list into k consecutive linked list "parts".
 The length of each part should be as equal as possible: no two parts should have a size differing by more than 1. This may lead to some parts being null.
 The parts should be in order of occurrence in the input list, and parts occurring earlier should always have a size greater than or equal parts occurring later. This is from https://leetcode.com/problems/split-linked-list-in-parts/*
-> Solution here: [split-linked-list]()
+> Solution here: [split-linked-list](cpp/splitLinkedListInParts.cpp)
 
 
 ## Validate Binary Search Tree
 *Given a binary tree, determine if it is a valid binary search tree (BST). This is from https://leetcode.com/problems/validate-binary-search-tree/*
-> Solution here: [validate-bst]()
+> Solution here: [validate-bst](cpp/validateBinarySearchTree.cpp)
 
 
 ## Populating Next Right Pointers in Each Node
 *Given a perfect binary tree, populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL. This is from https://leetcode.com/problems/populating-next-right-pointers-in-each-node//*
-> Solution here: [populate-next-pointer]()
+> Solution here: [populate-next-pointer](cpp/populateNextPointer.cpp)
 
 
 ## Sum of left leaves
 *Given a root of binary tree, return the sum of all left leaves. This is from https://leetcode.com/problems/sum-of-left-leaves/*
-> Solution here: [sum-of-leaves]()
+> Solution here: [sum-of-leaves](cpp/sumOfLeftLeaves.cpp)
 
 
 ## Tilt of Binary Tree
 *Given the root of a binary tree, return the sum of every tree node's tilt.
 The tilt of a tree node is the absolute difference between the sum of all left subtree node values and all right subtree node values. If a node does not have a left child, then the sum of the left subtree node values is treated as 0. The rule is similar if there the node does not have a right child. This is from https://leetcode.com/problems/binary-tree-tilt/*
-> Solution here: [binary-tree-tilt]()
+> Solution here: [binary-tree-tilt](cpp/findTreeTilt.cpp)
 
 
 ## First Unique Charachter in a string
 *Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1. This is from: https://leetcode.com/problems/first-unique-character-in-a-string/*
-> Solution here: [first-unique-charachter]()
+> Solution here: [first-unique-charachter](cpp/uniqueCharachter.cpp)
 
 
 ## Design a Linked List
 *Designing an implementation of Linked List. This is from: https://leetcode.com/problems/design-linked-list/*
-> Solution here: [design-linked-list]()
+> Solution here: [design-linked-list](cpp/)
 
 
 ## Top K frequent elements
 *Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
-> Solution here: [top-k-elements]()
+> Solution here: [top-k-elements](cpp/)
