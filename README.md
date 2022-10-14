@@ -69,3 +69,8 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 ## Top K frequent elements
 *Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
 > Solution here: [top-k-elements](cpp/topKFrequentElements.cpp)
+
+
+## Longest Palindromic Substring
+*Given a string s, return the longest palindromic substring in s. A string is called a palindrome string if the reverse of that string is the same as the original string. This is from: https://leetcode.com/problems/longest-palindromic-substring*
+> Solution here: [longest-palindromic-substring](cpp/longestPalindromeSubstring.cpp)
