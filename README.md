@@ -70,6 +70,15 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 *Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. This is from: https://leetcode.com/problems/top-k-frequent-elements/*
 > Solution here: [top-k-elements](cpp/topKFrequentElements.cpp)
 
+
 ## Increasing Triplet Subsequence
 *Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false. This is from: https://leetcode.com/problems/increasing-triplet-subsequence/*
 > Solution here: [increasing-triplet](cpp/increasingTriplet.cpp)
+
+## Rotate Image
+*You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise). You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.This is from:https://leetcode.com/problems/rotate-image/*
+> Solution here: [inline-rotation](cpp/rotateArray.cpp)
+
+## Longest Palindromic Substring
+*Given a string s, return the longest palindromic substring in s. A string is called a palindrome string if the reverse of that string is the same as the original string. This is from: https://leetcode.com/problems/longest-palindromic-substring*
+> Solution here: [longest-palindromic-substring](cpp/longestPalindromeSubstring.cpp)
