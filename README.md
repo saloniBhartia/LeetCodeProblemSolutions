@@ -82,3 +82,7 @@ The tilt of a tree node is the absolute difference between the sum of all left s
 ## Longest Palindromic Substring
 *Given a string s, return the longest palindromic substring in s. A string is called a palindrome string if the reverse of that string is the same as the original string. This is from: https://leetcode.com/problems/longest-palindromic-substring*
 > Solution here: [longest-palindromic-substring](cpp/longestPalindromeSubstring.cpp)
+
+## Find The Original Array of Prefix Xor
+*You are given an integer array pref of size n. Find and return the array arr of size n that satisfies: pref[i] = arr[0] ^ arr[1] ^ ... ^ arr[i]. Note that ^ denotes the bitwise-xor operation.It can be proven that the answer is unique.This is from: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/*
+> Solution here: [Find-The-Original-Array-of-Prefix-Xor](cpp/FindTheOriginalArrayofPrefixXor.cpp)
